@@ -20,8 +20,9 @@ Although Dopamine IPA has made significant strides in improving its functionalit
 [Download Dopamine Jailbreak IPA](https://iexmo.com/updates/dopamine-2-jailbreak/)
 
 ## Install Dopamine 2.0 Jailbreak: Installation Methods
-1. [TrollStore](https://iexmo.com/updates/trollstore/): You can permanently sign Dopamine on iOS 15, eliminating the hassle of signing in every 7 days.
+1.[TrollStore](https://iexmo.com/updates/trollstore/): You can permanently sign Dopamine on iOS 15, eliminating the hassle of signing in every 7 days.
 2.[AltStore](https://iexmo.com/altstore/) or [Sideloadly](https://iexmo.com/sideloadly/): These methods require periodic re-signing of the IPA.
+
 You can download Dopamine IPA and sign it with a different method.
 Dopamine brings a semi-untethered jailbreaking experience to iOS users, requiring an app to re-apply the exploit post-reboot. Here's how to get started with Dopamine on your device:
 
