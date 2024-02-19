@@ -122,4 +122,4 @@ We express our sincere appreciation to the individuals whose invaluable contribu
 
 Thank you all for your dedicated efforts in advancing the jailbreaking community and enhancing the iOS user experience.
 
-Note: This installation guide is provided for educational purposes only.
+*Note: This installation guide is provided for educational purposes only.*
