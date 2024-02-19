@@ -1,4 +1,4 @@
-# Dopamine 2.0 Jailbreak for iOS 15.0 - 16.6.1 - Full Guide
+# Dopamine 2.0 Jailbreak for iOS 15.0 - iOS 16.6.1 - Full Guide
 
 Dopamine Jailbreak 2.0 enables users to jailbreak modern iOS devices running iOS 15 – iOS 16.6.1, including A12+ models. Download the Dopamine 2.0 Jailbreak IPA for iOS 16 jailbreak.
 
